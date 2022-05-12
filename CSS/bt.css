@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    }
+.tieude ul li{
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 20px;
+}
+.tieude ul{
+    display: flex;
+    margin-top: 20px;
+     list-style: none;
+     margin-left: 875px;
+}
+.tieude ul  .inf-submit .btn-submit{
+    color: white;
+    background-color: #00ff;
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+}
+.giua{
+    background-image: url(../Images/IMAGE/term_condition/bg_term.png);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    margin-top: 30px;
+    min-height: 718px; 
+   
+}
+.giua .lop2{
+  
+    width: 950px;
+    padding-left: 50px;
+}
+.giua .lop2 .chuto{
+    padding-top: 240px;
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+}
+.giua .lop2 .chunho{
+    padding-top: 20px;
+    color:rgb(0, 217, 255) ;
+    font-size: 25px;
+}
+.giua .inf-submit .btn-submit{
+    color: white;
+    background-color: #00ff;
+    margin-left: 50px;
+    margin-top: 10px;
+    width: 86px;
+    height: 44px;
+    border-radius: 10px;
+}
+.cuoi .chutren{
+    color: black;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 50%;
+    font-weight: bold;
+}
+.cuoi .chuduoi{
+    justify-content: center;
+    padding-left: 260px;
+}
+.cuoi .icon .icon1{
+    margin-left: 400px;
+    font-size: 30px;
+    color: black;
+}
+.cuoi .icon{
+    padding-top: 30px;
+    
+}
+.cuoi .icon .icon2{
+    font-size: 30px;
+    padding-left: 400px;
+    color: black;
+}
